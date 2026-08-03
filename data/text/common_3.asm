@@ -317,8 +317,8 @@ _RepelUsedEarlierIsStillInEffectText::
 	prompt
 
 _PlayedFluteText::
-	text "Speelde de #" ; "Played the #"
-	line "FLUTE."
+	text "Speelde de #-" ; "Played the #"
+	line "FLUIT." ; "FLUTE."
 
 	para "Nou, wat een leuk" ; "Now, that's a"
 	line "deuntje!" ; "catchy tune!"

@@ -549,9 +549,9 @@ Route36NationalParkGateOfficer1AskToUseFirstMonText:
 	done
 
 Route36NationalParkGateOfficer1WellHoldYourMonText:
-	text "Prima. We bewaren" ; "Fine, we'll hold"
+	text "Prima, we bewaren" ; "Fine, we'll hold"
 	line "je andere #MON" ; "your other #MON"
-	cont "tijdens de strijd." ; "while you compete."
+	cont "ondertussen." ; "while you compete."
 	done
 
 Route36NationalParkGatePlayersMonLeftWithHelperText:

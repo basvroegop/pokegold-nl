@@ -214,14 +214,14 @@ CeladonGameCornerPrizeRoomGentlemanText:
 	done
 
 CeladonGameCornerPrizeRoomPharmacistText:
-	text "Pfiew…" ; "Whew…"
+	text "Pfoe…" ; "Whew…"
 
-	para "Ik moet kalm en" ; "I've got to stay"
-	line "rustig blijven…" ; "calm and cool…"
+	para "Ik moet een koele" ; "I've got to stay"
+	line "kikker blijven…" ; "calm and cool…"
 
-	para "Doe ik dat niet," ;  "I can't lose my"
-	line "dan kan ik al mijn" ; "cool, or I'll lose"
-	cont "geld verliezen…" ; "all my money…"
+	para "Als ik niet kalm" ;  "I can't lose my"
+	line "blijf, verlies ik" ; "cool, or I'll lose"
+	cont "al mijn geld…" ; "all my money…"
 	done
 
 CeladonPrizeRoom_PrizeVendorIntroText:

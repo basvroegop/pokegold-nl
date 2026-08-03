@@ -243,14 +243,16 @@ FakeDirectorTextAfter:
 	done
 
 Executivef1SeenText:
-	text "Hi, little boy."
-	line "Remember me from"
+	text "Hoi, kleine knul." ; "Hi, little boy."
+	line "Ken je me nog" ; "Remember me from"
 
-	para "the HIDEOUT in"
-	line "MAHOGANY TOWN?"
+	para "van de SCHUIL-" ; "the HIDEOUT in"
+	line "PLAATS in" ; "MAHOGANY TOWN?"
 
-	para "I lost then, but I"
-	line "won't this time."
+	para "MAHOGANY TOWN?" ; "I lost then, but I"
+	line "Ik verloor toen," ; "won't this time."
+	para "maar deze keer"
+	line "verlies ik niet."
 	done
 
 Executivef1BeatenText:

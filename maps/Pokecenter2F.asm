@@ -416,15 +416,15 @@ Text_BattleReceptionistIntro:
 	done
 
 Text_TradeReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB TRADE CENTER."
+	text "Welkom bij het" ; "Welcome to CABLE"
+	line "KABELRUILCENTRUM." ; "CLUB TRADE CENTER."
 
-	para "You may trade your"
-	line "#MON here with"
-	cont "a friend."
+	para "Je kunt hier je" ; "You may trade your"
+	line "#MON ruilen" ; "#MON here with"
+	cont "met een vriend." ; "a friend."
 
-	para "Would you like to"
-	line "trade?"
+	para "Wil je" ; "Would you like to"
+	line "ruilen?" ; "trade?"
 	done
 
 Text_TimeCapsuleReceptionistIntro:
