@@ -210,8 +210,14 @@ CeladonLocalizationRoomBookcaseCText:
 	done
 	
 CeladonLocalizationRoomStatueText:
-	text "Een kast vol oude"
-	line "Game Boys…"
+	text "Een mooi beeldje"
+	line "met onderop een"
+	cont "stalen tekstplaat:"
+	para "'Ter ere van ons"
+	line "#DEX-team:"
+	cont "Nino, Kylian,"
+	cont "Minuy, Tommazio,"
+	cont "Cryo en Roxorian.'"
 	done
 	
 CeladonLocalizationComputerBasText:
