@@ -199,6 +199,7 @@ CeladonMansion3F_MapEvents:
 	warp_event  1,  0, CELADON_MANSION_2F, 2
 	warp_event  6,  0, CELADON_MANSION_2F, 3
 	warp_event  7,  0, CELADON_MANSION_ROOF, 2
+	warp_event  3,  0, CELADON_LOCALIZATION_ROOM, 1
 
 	def_coord_events
 

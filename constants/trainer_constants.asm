@@ -177,6 +177,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	const CONNIE3 ; unused
 	const DANA2
 	const DANA3
+	const ELINE
 
 	trainerclass JANINE ; 1a
 	const JANINE1
@@ -406,6 +407,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	const HARRY
 	const HUEY2
 	const HUEY3
+	const WILLEM
 
 	trainerclass SUPER_NERD ; 29
 	const ERIC_UNUSED
@@ -490,6 +492,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	const HORTON
 	const IRWIN2
 	const IRWIN3
+	const RANDOLF
 
 	trainerclass BLACKBELT_T ; 32
 	const KENJI1
@@ -594,6 +597,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	const RONALD
 	const BRAD
 	const DOUGLAS
+	const CALVIN2
 
 	trainerclass POKEFANM ; 3b
 	const WILLIAM
@@ -608,6 +612,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	const DEREK2
 	const DEREK3
 	const ALEX
+	const BAS1
 
 	trainerclass KIMONO_GIRL ; 3c
 	const KYOKO ; unused
