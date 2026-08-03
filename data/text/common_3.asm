@@ -229,7 +229,7 @@ _CardFlipDarnText::
 	done
 
 _BallDodgedText::
-	text "Hij ontweek de" ; "It dodged the"
+	text "Het ontweek de" ; "It dodged the"
 	line "geworpen BAL!" ; "thrown BALL!"
 
 	para "Deze #MON" ; "This #MON"
