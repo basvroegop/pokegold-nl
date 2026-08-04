@@ -124,11 +124,11 @@ EcruteakTinTowerEntranceWanderingSageText:
 	done
 
 EcruteakTinTowerEntranceWanderingSageText_GotRainbowWing:
-	text "De TIN TOREN" ; "The TIN TOWER"
-	line "schudde! Een" ; "shook! A #MON"
+	text "De TINTOREN" ; "The TIN TOWER"
+	line "schudde! Een #-" ; "shook! A #MON"
 
-	para "#MON is terug" ; "must have returned"
-	line "naar de top!" ; "to the top!"
+	para "MON moet zijn" ; "must have returned"
+	line "teruggekeerd!" ; "to the top!"
 	done
 
 EcruteakTinTowerEntranceGrampsText:

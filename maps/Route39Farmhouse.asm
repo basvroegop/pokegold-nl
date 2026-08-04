@@ -128,7 +128,7 @@ FarmerMText_BuyMilk:
 	done
 
 FarmerMText_GotMilk:
-	text "Hiero! Drink 'n" ; "Here ya go!"
+	text "Hiero! Drink en" ; "Here ya go!"
 	line "geniet!" ; "Drink up'n enjoy!"
 	done
 
@@ -144,34 +144,34 @@ FarmerMText_NoRoom:
 	done
 
 FarmerMText_NoSale:
-	text "Geun interesse?" ; "You don't want it?"
-	line "Kom nog 'ns, ja?" ; "Come again, hear?"
+	text "Geen interesse?" ; "You don't want it?"
+	line "Kom nog eens, he?" ; "Come again, hear?"
 	done
 
 FarmerMText_Milking:
-	text "Beter ga'k 'em" ; "I best go do my"
+	text "Beter ga ik eem" ; "I best go do my"
 	line "melken." ; "milkin'."
 	done
 
 FarmerFText_InTrouble:
-	text "We bezorg'n zelfs" ; "Our milk even goes"
+	text "We bezorgen zelfs" ; "Our milk even goes"
 	line "in KANTO." ; "out to KANTO."
 
 	para "Dus als MILTANK" ; "So if our own"
-	line "geun melk gef," ; "MILTANK won't give"
+	line "geen melk geeft," ; "MILTANK won't give"
 
-	para "hebb'n we 'n dik" ; "us any milk, we're"
+	para "hebben we een dik" ; "us any milk, we're"
 	line "probleem." ; "in trouble."
 	done
 
 FarmerFText_HealedMiltank:
 	text "Je hebt MILTANK" ; "You fixed our"
-	line "gefixt, jong. Nu" ; "MILTANK, hon. Now"
+	line "gefixt, schat. Nu" ; "MILTANK, hon. Now"
 
-	para "hebb'n we weur" ; "it gives MOOMOO"
+	para "hebben we weer" ; "it gives MOOMOO"
 	line "MOOMOO-melk." ; "MILK again."
 
-	para "Hier is iets veur" ; "Here's somethin'"
+	para "Hier is iets voor" ; "Here's somethin'"
 	line "de moeite." ; "fer your trouble."
 	done
 
@@ -184,15 +184,15 @@ FarmerFText_SnoreSpeech:
 	text "Dat daar is" ; "That there's"
 	line "SNURK." ; "SNORE."
 
-	para "'n zeldzame aan-" ; "It's a rare move"
+	para "Een zeldzame aan-" ; "It's a rare move"
 	line "val die alleen" ; "that only works"
 
 	para "werkt als de" ; "while the #MON"
 	line "#MON slaapt." ; "is asleep."
 
 	para "Denk maar goed na" ; "You best think how"
-	line "over wat joe ermee" ; "you ought to use"
-	cont "kan, jong." ; "it, hon."
+	line "over wat je ermee" ; "you ought to use"
+	cont "kan, schat." ; "it, hon."
 	done
 
 Route39Farmhouse_MapEvents:

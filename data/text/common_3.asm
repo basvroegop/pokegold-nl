@@ -229,7 +229,7 @@ _CardFlipDarnText::
 	done
 
 _BallDodgedText::
-	text "Hij ontweek de" ; "It dodged the"
+	text "Het ontweek de" ; "It dodged the"
 	line "geworpen BAL!" ; "thrown BALL!"
 
 	para "Deze #MON" ; "This #MON"
@@ -317,8 +317,8 @@ _RepelUsedEarlierIsStillInEffectText::
 	prompt
 
 _PlayedFluteText::
-	text "Speelde de #" ; "Played the #"
-	line "FLUTE."
+	text "Speelde de #-" ; "Played the #"
+	line "FLUIT." ; "FLUTE."
 
 	para "Nou, wat een leuk" ; "Now, that's a"
 	line "deuntje!" ; "catchy tune!"

@@ -292,7 +292,7 @@ BirdKeeperVanceLegendaryBirdsText:
 	line "vogel-#MON." ; "ary bird #MON."
 
 	para "Ik hoorde ook over" ; "I heard there are"
-	line "andere legendari-" ; "other legendary"
+	line "andere legendari- " ; "other legendary"
 	cont "sche vogels." ; "birds, though."
 	done
 

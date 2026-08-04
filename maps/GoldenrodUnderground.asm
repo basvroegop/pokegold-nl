@@ -606,7 +606,7 @@ GoldenrodUndergroundYoungerHaircutBrotherAllDoneText:
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherHowDisappointingText:
-	text "Nee? "; "No? "
+	text "Nee?"; "No? "
 	line "Wat jammer!"; "How disappointing!"
 	done
 
